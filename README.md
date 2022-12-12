@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Minor Project](https://github.com/s-bhalode/rpc-web-client)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 Currently working on **React Native**
 
 - 📝 My last article was of Async/Await in JS [https://medium.com/@SimranBhalode/is-javascript-synchronous-or-asynchronous-8b04738c55f5](https://medium.com/@SimranBhalode/is-javascript-synchronous-or-asynchronous-8b04738c55f5)
 
