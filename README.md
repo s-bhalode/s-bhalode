@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="1000" height="500" align="center" src="https://img1.goodfon.com/original/1920x1080/6/21/anime-devochka-windows.jpg" >
+<img align="center" alt="Coding" width="1000" height="500" src="https://img1.goodfon.com/original/1920x1080/6/21/anime-devochka-windows.jpg" >
 
 <h1 align="center">Hi 👋, I'm Simran Bhalode</h1>
 <h3 align="center">A Programming Enthusiast</h3>
