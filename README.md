@@ -1,7 +1,7 @@
 
 <img align="center" alt="Coding" width="1000" height="500" src="https://img1.goodfon.com/original/1920x1080/6/21/anime-devochka-windows.jpg" >
 
-<h1 align="center">Hello 👋, I'm Simran Bhalode</h1>
+<h1 align="center">Hii 👋, I'm Simran Bhalode</h1>
 <h3 align="center">An Enthusiastic Programmer</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06C611&background=C159FF05&center=true&vCenter=true&multiline=true&width=1000&lines=Full+Stack+Developer+%7C%7C+Open+Source+Contributor" alt="Typing SVG" /></a>
 
