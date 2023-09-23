@@ -5,7 +5,7 @@
 <h3 align="center">An Enthusiastic Programmer</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=25px&weight=600&color=06C611&background=C159FF05&center=true&vCenter=true&multiline=true&width=1100&lines=Full+Stack+Developer+%7C%7C+Open+Source+Contributor+%7C%7C+Mentor+@+GDSC_CDGI" alt="Typing SVG" /></a>
 <a href="https://www.holopin.io/@sbhalode#" target="_blank"><img align="center" alt="Coding" width="1000" height="300" src="https://holopin.me/sbhalode" ></a>
-<p align="center" > <img src="https://komarev.com/ghpvc/?username=s-bhalode&label=Profile%20views&color=0e75b6&style=flat" alt="s-bhalode" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=s-bhalode&label=Profile%20views&color=0e75b6&style=flat" alt="s-bhalode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-bhalode" alt="s-bhalode" /></a> </p>
 
