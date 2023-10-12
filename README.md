@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=25px&weight=600&color=06C611&background=C159FF05&center=true&vCenter=true&multiline=true&width=1100&lines=Full+Stack+Developer+%7C%7C+Open+Source+Contributor+%7C%7C+Mentor+@+GDSC_CDGI" alt="Typing SVG" /></a>
 
 
-<a href="https://holopin.me/sbhalode"><img src="https://holopin.me/sbhalode" width="100%" height="100%" /> </a>
+[![An image of @sbhalode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sbhalode)](https://holopin.io/@sbhalode)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=s-bhalode&label=Profile%20views&color=0e75b6&style=flat" alt="s-bhalode" /> </p>
 
