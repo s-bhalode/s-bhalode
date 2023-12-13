@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-bhalode" alt="s-bhalode" /></a> </p>
 
-- 🔭 I’m currently working on [Minor Project](https://github.com/s-bhalode/rpc-web-client)
+- 🔭 I’m currently working on [Major Project](https://remote-placement-cell.vercel.app/)
 
 - 🌱 Currently working on **React Native**
 
